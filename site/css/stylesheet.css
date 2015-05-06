@@ -1,3 +1,11 @@
 body {
     background-color: #FF8182;
 }
+#page_content {
+    width:900px;
+    height:900px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:10px;
+    background-color: #FFFFFF;
+}
